@@ -193,15 +193,18 @@
 				TargetAttributes = {
 					6AFB009F1E9494FA0049FAFD = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 65UX94946M;
 						ProvisioningStyle = Automatic;
 					};
 					6AFB00B31E9494FA0049FAFD = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 65UX94946M;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 6AFB009F1E9494FA0049FAFD;
 					};
 					6AFB00BE1E9494FA0049FAFD = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 65UX94946M;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 6AFB009F1E9494FA0049FAFD;
 					};
@@ -412,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplication/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplication;
@@ -424,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplication/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplication;
@@ -437,6 +442,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplicationTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplicationTests;
@@ -451,6 +457,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplicationTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplicationTests;
@@ -464,6 +471,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplicationUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplicationUITests;
@@ -477,6 +485,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 65UX94946M;
 				INFOPLIST_FILE = FBstreamApplicationUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gerardo.deleon01.FBstreamApplicationUITests;
@@ -505,6 +514,7 @@
 				6AFB00CA1E9494FA0049FAFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6AFB00CB1E9494FA0049FAFD /* Build configuration list for PBXNativeTarget "FBstreamApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +523,7 @@
 				6AFB00CD1E9494FA0049FAFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6AFB00CE1E9494FA0049FAFD /* Build configuration list for PBXNativeTarget "FBstreamApplicationUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +532,7 @@
 				6AFB00D01E9494FA0049FAFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
